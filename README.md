@@ -5,7 +5,7 @@
 <img src="./IMAGENS/FOTO_2.png" align="center" width="400"> <br>
 
 ## DESCRIÇÃO:
-   - Esse é um código HTML com JavaScript e CSS para criar um popup simples em uma página da web.
+Esse é um código HTML com JavaScript e CSS para criar um popup simples em uma página da web.
 
 ## FUNCIONALIDADES:
    - **Popup:** O código cria um popup que aparece sobre o conteúdo da página quando ativado por um botão.
