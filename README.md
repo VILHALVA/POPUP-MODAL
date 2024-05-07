@@ -1,8 +1,8 @@
 # POPUP MODAL
 👨‍🏫INTERFACE DE POPUP COM HTML/CSS/JS.
 
-<img src="./IMAGENS/FOTO_01.png" align="center" width="400"> <br>
-<img src="./IMAGENS/FOTO_02.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_1.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_2.png" align="center" width="400"> <br>
 
 ## DESCRIÇÃO:
    - Esse é um código HTML com JavaScript e CSS para criar um popup simples em uma página da web.
